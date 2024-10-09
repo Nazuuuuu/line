@@ -1,1 +1,4 @@
-# line
+{
+    "type": "text",
+    "text": "Hello, world"
+}
